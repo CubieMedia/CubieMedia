@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @CubieMedia
 - 👀 I’m interested in Controlable Home (make you Home nicer!)
 - 🌱 I’m currently learning how to colaborate on GitHub (HomeAssistant)
-- 💞️ I’m looking to collaborate on creating an MQTT Client (on Raspberry) as Gateway for EnOcean, GPIO and Relayboards (ETH008)
+- 💞️ I’m looking to collaborate on creating an [MQTT Client](https://github.com/CubieMedia/mqtt-client) (on Raspberry) as Gateway for
+  -  EnOcean
+  -  GPIO
+  -  Victron
+  -  Sonar
+  -  Relayboards (ETH008)
 - 📫 How to reach me www.cubiemedia.de
 
 <!---
